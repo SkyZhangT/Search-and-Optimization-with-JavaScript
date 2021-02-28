@@ -1,2 +1,2 @@
 # Traditional-AI-with-JavaScript
-This are the assignments I did while learning traditional AI methodologies.
+These are the assignments I did while learning traditional AI methodologies.
